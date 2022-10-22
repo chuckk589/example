@@ -103,6 +103,5 @@ export class AccountComposer extends BaseComposer {
     } else {
       await ctx.reply(ctx.i18n.t('checkAccepted', { check_id: check.fancyId }));
     }
-    await ctx.reply(ctx.i18n.t('promoEnded'));
   };
 }
