@@ -1,5 +1,5 @@
 {
-    "start": "\"RASTISHKA\" bilan yutuqlarga ega bo'ling❗\n🔻17 000 so'm va undan yuqori qiymatda istalgan \"RASTISHKA\" mahsulotlarini xarid qiling \n🔻Chekni @rastishka_promo_bot ga yuklang\n🔻Sovg'alar yutib oling",
+    "start": "\"RASTISHKA\" bilan yutuqlarga ega bo'ling❗\n🔻17 000 so'm va undan yuqori qiymatda istalgan \"RASTISHKA\" mahsulotlarini xarid qiling \n🔻Chekni ga yuklang\n🔻Sovg'alar yutib oling",
     "chooseLang": "Tilni tanlang/ Выберите язык",
     "checkAccepted": "Rahmat, chek qabul qilindi va moderatsiyaga yuborildi! Arizaning unikal raqami: ${check_id}\nSovrin yutib olganingiz taqdirda bildirishnomalarni o'tkazib yubormaslik uchun, bot bildirishnomalarni o'chirmang.",
     "getRules": "Aksiya Qoidalari bilan tanishish uchun <a href = '${link}'>havolani</a> bosing\n",
@@ -32,7 +32,7 @@
     "aboutDetails": "Aksiyada ishtirok etish uchun:\n\n🔻17 000 so'm va undan yuqori qiymatli istalgan \"RASTISHKA\" mahsulotlarini xarid qiling\n🔻Chek suratini Telegramga jo'nating\n🔻Yutuqli o'yinda ishtirok eting\n\nKafolatlangan sovg'a - onlayn bo'yoq daftari🖍️\n\nAksiya 01.09.2022 dan 30.09.2022-yilgacha o'tkaziladi!",
     "contacts": "📧Biz bilan bog'lanish",
     "contact": "Telefon raqamingizni kiriting",
-    "contactDetails": "Rastishka@kogi.uz pochtasiga xat yuborish yoki RASTISHKA instagrami orqali bog'lanish @rastishka.uzbekistan",
+    "contactDetails": "contactDetails",
     "askAge": "18 yoshga to'lganmisiz?:",
     "askGender": "Jinsingizni ko'rsating",
     "askCity": "Shahringizni tanlang",
